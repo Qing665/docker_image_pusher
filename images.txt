@@ -1,1 +1,2 @@
 cosincox/easyvoice:latest
+remsky/kokoro-fastapi:latest
