@@ -1,1 +1,1 @@
-remsky/kokoro-fastapi:latest
+remsky/kokoro-fastapi-cpu:latest
